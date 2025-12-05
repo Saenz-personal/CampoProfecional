@@ -42,7 +42,7 @@ tal vez con las aplicaciones de la empreza de mi padre
 probablemente temas de confidencialidad, puntualidad, etc 
 
     describe un posible dilema etico que un ingeniero podria enfrentar en su trabajo¿como actuarias tu ante esa situacion?
-un dilema podria ser... 
+un dilema podria ser... algun caso de seguridad personal con alguna aplicacion(pedir informacion sencible, protecciones del usuario, anonimato, etc)
 
 5--------------
     
